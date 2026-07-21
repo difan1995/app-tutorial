@@ -1,12 +1,12 @@
-name: "di2"
+name: "di"
 version: "0.1.0"
 description: "My really amazing app!"
 keywords: ""
-authors: "My name"
+authors: "Di"
 collaborators: ""
 funding: ""
 license: ""
-homepage: ""
+homepage: "https://github.com/difan1995/app-tutorial"
 source:
   architectures:
     - "linux/amd64"
