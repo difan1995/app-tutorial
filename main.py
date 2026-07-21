@@ -9,7 +9,7 @@ def compute_mean_color(image):
 
 
 def main():
-    with Plugin() as plugin, Camera("file:///example.jpg") as camera:
+    with Plugin() as plugin, Camera("rtsp://10.107.0.232:10001/profile1/media.smp") as camera:
         # read example image from file
         image = camera.snapshot()
 
